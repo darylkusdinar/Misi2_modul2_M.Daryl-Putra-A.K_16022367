@@ -41,3 +41,24 @@ selain itu saya juga sebelumnya membuat 5 buah array kosong, yang nantinya akan 
 4. array konsumsi1, untuk menyimpan data kode makanan yang sudah dibeli
 5. array konsumsi2, untuk menyimpan data kode minuman yang sudah dibeli 
 
+![Screenshot (268)](https://user-images.githubusercontent.com/123804483/218246474-9a536270-7956-49ca-9f6b-52c6cbf6c9fd.png)
+
+jika tadi saya menjelaskan secara alurnya, maka untuk yang ini akan saya jelaskan berdasarkan urutan fungsinya
+
+### fungsi main
+
+![Screenshot (269)](https://user-images.githubusercontent.com/123804483/218246481-100b3060-7e94-4dc2-8142-ef19b9bdc845.png)
+
+di awal kita diperintahkan untuk memasukkan huruf depan nama pelanggan, kenapa hanya satu huruf? ini dikarenakan array C hanya bisa menyimpan satu character, sebenarnya bisa lebih dari satu character yaitu menggunakan array multi dimensi, namun saya sudah mencoba berkali - kali dan selalu gagal, karena deadline mepet dan saya punya kesibukan lin sehingga tidak punya waktu untuk menyempurnakannya, oleh karena itu saya hanya menggunakan 1 huruf.
+bisa dilihat juga saya mengdeclare awal untuk menentukan toko buka atau tutup, nam untuk nama pelanggan, untuk loop sendiri sebanarnya tidak terpakai saya lupa menghapusnya.
+
+![Screenshot (270)](https://user-images.githubusercontent.com/123804483/218246489-da29182b-3893-49be-a2f9-670341d8ecf4.png)
+
+int z berfungsi sebagai pemberi tau ke array bahwa saya memasukkan "nama" ke dalam array element "z", itulah kenapa ada pertanyaan "ini pelanggan ke berapa" berfungsi untuk memauskkan data ke element array[z], setelah itu saya mengarah kan ke fungsi "milihmakan" itu semua jika kita memasukkan 1 di pilihan buka atau tutup toko. lalu bagaimana jika kita memilih 2, bisa dilihat saya membuat int sum1 dan int sum2, ini bertujuan untuk menjumlahkan seluruh isi array dari pemasukkan1 dan pemasukkan2, dan saya juga membuat int sum3 untuk menjumlahkan sum1 dan sum2, jika sum3 = 0 maka akan keluar hasil "tidak ada trandsaksi", jika tidak maka program berikut yang kaan jalan
+
+![Screenshot (262)](https://user-images.githubusercontent.com/123804483/218246501-7e53ca09-65a4-4f01-bb8e-d24c3d56f1cd.png)
+
+saya membuat int jlhpelanggan, int jlhmakanan, dan int jlhminuman ini bertujuan untuk memberikanbatasan kepada program untuk mengprint data yang telah terinput ke dalam array, saya lupa memberi tau bahwa dalm array saya memberikan batasan 10, saya tidak tau apakah ada program untuk memberikan panjang array yang fleksibel, karena saya tidak tau jadi saya memberikan batasan 10. itulah kenapa saya bertanya berpa jumlah pelanggan, makanan dan minuman yang dipesan untuk memberikan batasan kepada program dalam mengeprint data didalam array.
+
+### fungsi menu
+
