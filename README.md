@@ -59,6 +59,7 @@ int z berfungsi sebagai pemberi tau ke array bahwa saya memasukkan "nama" ke dal
 ![Screenshot (262)](https://user-images.githubusercontent.com/123804483/218246501-7e53ca09-65a4-4f01-bb8e-d24c3d56f1cd.png)
 
 saya membuat int jlhpelanggan, int jlhmakanan, dan int jlhminuman ini bertujuan untuk memberikanbatasan kepada program untuk mengprint data yang telah terinput ke dalam array, saya lupa memberi tau bahwa dalm array saya memberikan batasan 10, saya tidak tau apakah ada program untuk memberikan panjang array yang fleksibel, karena saya tidak tau jadi saya memberikan batasan 10. itulah kenapa saya bertanya berpa jumlah pelanggan, makanan dan minuman yang dipesan untuk memberikan batasan kepada program dalam mengeprint data didalam array.
+sum1 dan sum2 juga berhuna untuk mengeprint total pemasukkan dari makanan dan minuman yang terjual
 
 ### fungsi menu
 
