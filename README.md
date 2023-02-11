@@ -68,3 +68,5 @@ fungsi ini hanyalah fungsi void yang isinya menampilkan menu ke layar berupa daf
 ![Screenshot (271)](https://user-images.githubusercontent.com/123804483/218247314-7be911ed-5b07-4049-8157-4c70d06a86f1.png)
 
 ### fungsi milihmakan
+fungsi ini bertujuan untuk menyimpan data pemasukkan dan makanan yang dimasukkan, setelah selesai fungsi ini akan mengarahkan kita ke fungsi selanjutnya yaitu fungsi milihminum.
+
