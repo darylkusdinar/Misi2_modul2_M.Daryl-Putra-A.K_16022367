@@ -70,3 +70,13 @@ fungsi ini hanyalah fungsi void yang isinya menampilkan menu ke layar berupa daf
 ### fungsi milihmakan
 fungsi ini bertujuan untuk menyimpan data pemasukkan dan makanan yang dimasukkan, setelah selesai fungsi ini akan mengarahkan kita ke fungsi selanjutnya yaitu fungsi milihminum.
 
+![Screenshot (264)](https://user-images.githubusercontent.com/123804483/218251689-0528bbc7-0698-4bb5-a07e-2698447156b2.png)
+
+disini saya membuat int (nama- nama makanan) bertujuan untuk mendeclare nama makanan, namun karena seperti point yang saya bicarakan diatas yaitu tidak bisa menyimpan element yang katanya banyaj, oleh karena itu kumpulan int ini tidak terpakai, dan saya menggantinya dengna kode makanan, alasan saya menanyakan ini "makanan ke berapa yang dipesan bertujuan untuk menyimpan data input ke dalam array sesuai dengan elemennya, setelah itu kita diarahkan ke fungsi selanjutnya yaitu fungsi milih minum
+
+![Screenshot (265)](https://user-images.githubusercontent.com/123804483/218251785-d1789482-7f56-4ee8-9cad-52a8cb575521.png)
+
+### fungsi milihminum
+
+fungsi ini sama halnya seperti fungsi milihmakan, bedanya fungsi ini mengarahkan kita ke fungsi main.
+
