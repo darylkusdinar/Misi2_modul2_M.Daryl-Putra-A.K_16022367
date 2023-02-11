@@ -80,3 +80,10 @@ disini saya membuat int (nama- nama makanan) bertujuan untuk mendeclare nama mak
 
 fungsi ini sama halnya seperti fungsi milihmakan, bedanya fungsi ini mengarahkan kita ke fungsi main.
 
+![Screenshot (266)](https://user-images.githubusercontent.com/123804483/218251964-aca2f17d-c346-4620-9e70-5916ab4d39ea.png)
+
+![Screenshot (267)](https://user-images.githubusercontent.com/123804483/218251967-77eb4320-331a-4ce9-b0dc-9c56ae673fe7.png)
+
+# kekurangan
+kekurangan dari program saya adalah, program ini tidak bisa menampilkan data input array dalam character lebih dari satu
+pasti masih banyak lagi kekurangan program saya ini, dan saya akan berusaha untuk menjadi lebih baik lagi kedepannya
