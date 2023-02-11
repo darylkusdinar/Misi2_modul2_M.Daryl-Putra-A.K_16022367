@@ -64,3 +64,6 @@ saya membuat int jlhpelanggan, int jlhmakanan, dan int jlhminuman ini bertujuan 
 
 fungsi ini hanyalah fungsi void yang isinya menampilkan menu ke layar berupa dafatr menu yang ditawarkan, fungsi ini kana dipanggil di fungsi selanjutnya, yaitu fungsi milihmakan 
 
+![Screenshot (271)](https://user-images.githubusercontent.com/123804483/218247314-7be911ed-5b07-4049-8157-4c70d06a86f1.png)
+
+### fungsi milihmakan
